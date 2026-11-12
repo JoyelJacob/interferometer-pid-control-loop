@@ -3,7 +3,7 @@
 A Python simulation modeling active seismic vibration damping and feedback control for laser interferometer mirrors.
 
 ## What This Project Does
-Ground-based laser interferometers are extraordinarily sensitive to tiny movements. Even minor ground vibrations—like distant ocean waves or nearby traffic—shake the mirrors millions of times more than a passing gravitational wave. 
+Ground-based laser interferometers are extraordinarily sensitive to tiny movements. Even minor ground vibrations-like distant ocean waves or nearby traffic-shake the mirrors millions of times more than a passing gravitational wave. 
 
 This project models that physical challenge in two parts:
 1. **Simulates realistic ground motion** combining low-frequency microseismic waves (~0.2 Hz), local environmental vibrations (~4.5 Hz), and high-frequency sensor noise.
