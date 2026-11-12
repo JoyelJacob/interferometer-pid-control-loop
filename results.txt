@@ -1,0 +1,8 @@
+]633;E;python seismic_noise_model.py;615d883d-d43a-48da-9af6-a50ff6e27e53]633;CGenerated 10000 samples of multi-band terrestrial seismic motion.
+Uncontrolled Ground RMS Displacement: 1.8644 um
+
+--- Interferometer Mirror Seismic Isolation & PID Control ---
+Open-Loop Uncontrolled RMS: 1.8630 um
+Closed-Loop Stabilized RMS: 0.008821 um
+Vibration Attenuation: 46.49 dB
+Saved visual diagnostic plot: pid_isolation_results.png
